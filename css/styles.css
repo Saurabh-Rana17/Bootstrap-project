@@ -73,7 +73,6 @@ h2 {
 }
 /* <!-- Testimonials --> */
 #testimonials {
-  padding: 7% 15%;
   text-align: center;
   background-color: #ef8172;
   color: #fff;
@@ -83,6 +82,14 @@ h2 {
   border-radius: 100%;
   margin: 20px;
 }
+em {
+  font-weight: bold;
+  font-size: x-large;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
 /* press */
 #press {
   background-color: #ef8172;
