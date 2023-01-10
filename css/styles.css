@@ -1,12 +1,98 @@
 #title {
   background-color: #ff4c68;
+  color: white;
+}
+#features {
+  text-align: center;
+  padding: 7%;
+}
+
+.btn-down {
+  margin-right: 5%;
+  margin-top: 5%;
+
+  margin-bottom: 5%;
+}
+body {
+  font-family: Montserrat-black;
 }
 h1 {
   font-family: "Montserrat-black";
-  font-size: 3rem;
+  font-size: 4rem;
   line-height: 1.5;
   font-weight: 900;
+  color: white;
+}
+h2 {
+  font-family: Montserrat-bold;
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5l;
 }
 .container-fluid {
   padding: 3% 15% 3% 15%;
+}
+/* title img */
+.mob-img {
+  width: 60%;
+  transform: rotate(25deg);
+}
+/* navbar text */
+.navbar {
+  padding-bottom: 3.5rem;
+}
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding-right: 18px;
+  padding-left: 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+/* feature */
+.feature-icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.feature-icon:hover {
+  color: #ff4c68;
+}
+.feature-h3 {
+  margin-top: 3%;
+  font-family: Montserrat;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+.feature-p {
+  color: #8f8f8f;
+  font-size: 1.2rem;
+}
+/* <!-- Testimonials --> */
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.test-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+/* press */
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo {
+  width: 15%;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
 }
