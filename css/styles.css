@@ -103,3 +103,13 @@ em {
   margin-right: 20px;
   margin-bottom: 50px;
 }
+/* Pricing */
+#pricing {
+  text-align: center;
+  padding: 100px;
+}
+.p-col {
+}
+/* .card {
+  margin: 3% 5%;
+} */
