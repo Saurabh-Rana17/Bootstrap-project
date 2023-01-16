@@ -2,9 +2,18 @@
   background-color: #ff4c68;
   color: white;
 }
+/* title img */
+.mob-img {
+  width: 23%;
+  transform: rotate(25deg);
+  position: absolute;
+}
 #features {
   text-align: center;
   padding: 7%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
 }
 
 .btn-down {
@@ -30,13 +39,9 @@ h2 {
   line-height: 1.5l;
 }
 .container-fluid {
-  padding: 3% 15% 3% 15%;
+  padding: 3% 15%;
 }
-/* title img */
-.mob-img {
-  width: 60%;
-  transform: rotate(25deg);
-}
+
 /* navbar text */
 .navbar {
   padding-bottom: 3.5rem;
