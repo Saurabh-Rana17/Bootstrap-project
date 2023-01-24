@@ -24,17 +24,17 @@
   margin-bottom: 5%;
 }
 body {
-  font-family: Montserrat-black;
+  font-family: ubuntu;
 }
 h1 {
-  font-family: "Montserrat-black";
+  font-family: "Montserrat";
   font-size: 4rem;
   line-height: 1.5;
   font-weight: 900;
   color: white;
 }
 h2 {
-  font-family: Montserrat-bold;
+  font-family: Montserrat;
   font-weight: bold;
   font-size: 3.5rem;
   line-height: 1.5l;
@@ -117,6 +117,14 @@ em {
 .p-col {
   padding: 3% 2%;
 }
-/* .card {
-  margin: 3% 5%;
-} */
+/* breakpoint */
+@media (max-width: 1020px) {
+  #title {
+    text-align: center;
+  }
+  .mob-img {
+    position: static;
+    width: 60%;
+    transform: rotate(0);
+  }
+}
