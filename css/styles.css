@@ -143,3 +143,14 @@ h3 {
 .btn-cta {
   margin: 5% 1.5% 1%;
 }
+/* Footer */
+#footer {
+  padding: 7%;
+  text-align: center;
+}
+.p-cta {
+  color: #8f8f8f;
+}
+.foot-ico {
+  margin: 1%;
+}
