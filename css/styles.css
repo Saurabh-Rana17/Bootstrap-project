@@ -42,6 +42,12 @@ h2 {
 .container-fluid {
   padding: 3% 15% 7%;
 }
+h3 {
+  font-family: Montserrat;
+  font-weight: bolder;
+  font-size: 2rem;
+  color: black;
+}
 
 /* navbar text */
 .navbar {
@@ -134,12 +140,7 @@ em {
   text-align: center;
   padding: 7% 15%;
 }
-h3 {
-  font-family: Montserrat;
-  font-weight: bolder;
-  font-size: 2rem;
-  color: black;
-}
+
 .btn-cta {
   margin: 5% 1.5% 1%;
 }
