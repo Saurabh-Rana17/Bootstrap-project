@@ -1,6 +1,10 @@
+.container-fluid {
+  padding: 3% 15% 7%;
+}
 #title {
   background-color: #ff4c68;
   color: white;
+  text-align: left;
 }
 /* title img */
 .mob-img {
@@ -25,25 +29,26 @@
 }
 body {
   font-family: ubuntu;
+  text-align: center;
+}
+h1,
+h2,
+h3 {
+  font-family: "Montserrat";
 }
 h1 {
-  font-family: "Montserrat";
   font-size: 4rem;
   line-height: 1.5;
   font-weight: 900;
   color: white;
 }
 h2 {
-  font-family: Montserrat;
   font-weight: bold;
   font-size: 3.5rem;
   line-height: 1.5l;
 }
-.container-fluid {
-  padding: 3% 15% 7%;
-}
+
 h3 {
-  font-family: Montserrat;
   font-weight: bolder;
   font-size: 2rem;
   color: black;
