@@ -128,6 +128,9 @@ em {
 .p-col {
   padding: 3% 2%;
 }
+#pricing h4 {
+  color: #8f8f8f;
+}
 /* breakpoint */
 @media (max-width: 1020px) {
   #title {
@@ -145,7 +148,7 @@ em {
   text-align: center;
   padding: 7% 15%;
 }
-#cta h3 {
+#cta h2 {
   color: white;
 }
 
