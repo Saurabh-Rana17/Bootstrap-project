@@ -2,13 +2,13 @@
   padding: 3% 15% 7%;
 }
 #title {
-  background-color: #ff4c68;
+  background-color: #f99417;
   color: white;
   text-align: left;
 }
 /* title img */
 .mob-img {
-  width: 23%;
+  width: 30%;
   transform: rotate(25deg);
   position: absolute;
   right: 22%;
@@ -72,11 +72,11 @@ h3 {
 }
 /* feature */
 .feature-icon {
-  color: #ef8172;
+  color: #f99417;
   margin-bottom: 1rem;
 }
 .feature-icon:hover {
-  color: #ff4c68;
+  color: #fc7300;
 }
 .feature-h3 {
   margin-top: 3%;
@@ -91,7 +91,7 @@ h3 {
 /* <!-- Testimonials --> */
 #testimonials {
   text-align: center;
-  background-color: #ef8172;
+  background-color: #f2921d;
   color: #fff;
 }
 .test-img {
@@ -109,7 +109,7 @@ em {
 
 /* press */
 #press {
-  background-color: #ef8172;
+  background-color: #f2921d;
   text-align: center;
   padding-bottom: 3%;
 }
@@ -141,7 +141,7 @@ em {
 }
 /* call to action */
 #cta {
-  background-color: #ff4c68;
+  background-color: #f99417;
   text-align: center;
   padding: 7% 15%;
 }
