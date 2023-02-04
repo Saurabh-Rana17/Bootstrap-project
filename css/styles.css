@@ -44,7 +44,7 @@ h1 {
 }
 h2 {
   font-weight: bold;
-  font-size: 3.5rem;
+  font-size: 3rem;
   line-height: 1.5l;
 }
 
@@ -166,5 +166,22 @@ em {
     position: static;
     width: 65%;
     transform: rotate(0);
+  }
+  .navbar-brand {
+    font-size: 2rem;
+  }
+  .navbar {
+    padding-bottom: 10%;
+  }
+  h1 {
+    font-size: 3rem;
+    font-family: sans-serif;
+    font-weight: 900;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  #pricing {
+    padding: 15%;
   }
 }
