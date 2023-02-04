@@ -1,5 +1,5 @@
 .container-fluid {
-  padding: 3% 15% 7%;
+  padding: 3% 15%;
 }
 #title {
   background-color: #f99417;
@@ -131,17 +131,7 @@ em {
 #pricing h4 {
   color: #8f8f8f;
 }
-/* breakpoint */
-@media (max-width: 1020px) {
-  #title {
-    text-align: center;
-  }
-  .mob-img {
-    position: static;
-    width: 65%;
-    transform: rotate(0);
-  }
-}
+
 /* call to action */
 #cta {
   background-color: #f99417;
@@ -167,3 +157,14 @@ em {
   margin: 1%;
 }
 /* comment */
+/* breakpoint */
+@media (max-width: 1020px) {
+  #title {
+    text-align: center;
+  }
+  .mob-img {
+    position: static;
+    width: 65%;
+    transform: rotate(0);
+  }
+}
